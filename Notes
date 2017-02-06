@@ -1,0 +1,61 @@
+Notes for Python:
+
+1. print = This print the attached statement or content of the variable to the command line
+2. # - (octothorpe) - This is used for comments 
+3. ^ - (caret) - This is the location where the error is
+4. + - plus sign 
+5. - - minus sign
+6. / - slash - Division
+7. * - asterisk - multiplication 
+8. % - percent sign - divisions 
+9. < - less-than
+10. > - greater-than
+11. <= - less than or equal too
+12. >= - greater than or equal too
+13. "" - quotes for string text 
+14. floating point - allows for decimals 
+15. "car" - variable name ,this can be anything
+16. _ = This replace decimal points
+17. = - (single equal) - assigns the value on the right to a variabl on the left
+18. == - (double-equal) - test if two things have the same value 
+19. %d - allows for integer to display in python read out
+20. %s - allows for string to display in python read out , converts to str()
+21. %r - this is a formatter, this return command and what was exected . Raw programmer of the version
+22. round() - This rounds numercial values to whole numbers or intergers
+23. %str - This is a string formatter
+24. "." * 10 = This return ten copies of "."
+25. \n = new line 
+26. """ - Allows the user to type multiple lines till they are done and print """ 
+27. \\ = backslash(\) - This is a an escape sequences
+28. \ - escape sequence
+29. \t = Tab to line
+30. \" - double-qoute(")
+31. \a - bell
+32. \b = add backspace
+33. \f = ASCII form feed
+34. \n = new line
+35. \r = return carriage
+36. \v = vertical tab
+37. \xhh = hex value for hh
+38. raw_input() - enter values as specified by the user
+39. input() - coverts things you enter as if they were python code
+40. ("Name ?")- this prints out name to command line and carry the value 
+41. y = raw_input() = assign the value to y
+42. pydoc - Read a string from standard input. 
+43. argv - argument to be used within the script
+44. import - used to bring in a feature set to be used in script
+45. from - location of libary or function to be used 
+46. open(filename) - Open a file using the file() type, returns a file object.  This is the
+    preferred way to open a file.
+47. . - used to give command to a file
+48. .read() - read file with no arguments 
+49. close - closes the file. 
+50. readline - reads just one line of a text file
+51. trucate - empites the file . 
+52. write(stuff) - Writes stuff to the file 
+53. exists - return true if file exists
+54. len() - finds a length of the string
+55. def - A function definition defines a user-defined function object 
+56. f.seek(0) - go to the start of the file 
+57. f.readline - reading line from the file , from right to left
+58. +- - contraction

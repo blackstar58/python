@@ -1,0 +1,112 @@
+and - logical operator which states that both values are true to get a pass
+del - delete operator 
+from - an operator that allows specific an array or segment 
+not - opposite of and , the value should not equal to what ever variable is selected
+while - while this allows a function to loop while some comparison is true. 
+as - function used to assign the value to variable
+elif - else if , if the if statement is not true this is used as a combination of else and if 
+global - this is a global varible accessible across entire script 
+or - this is a comparison operator used that be used to allow either variables to be true or false to pass
+with - 
+assert -
+else - 
+if - 
+pass - 
+yield - 
+break - 
+excerpt - 
+import - 
+print - 
+class - 
+exec - 
+in - 
+raise - 
+continue - 
+finally - 
+is - 
+return - 
+def - 
+for - 
+lambda - 
+try - 
+
+Data Type:
+
+True - 
+False - 
+None - 
+strings - 
+numbers - 
+floats - 
+lists - 
+
+String Escape Sequences - 
+
+\\ - 
+\' - 
+\" - 
+\a -
+\b - 
+\f - 
+\n - 
+\r - 
+\t - 
+\v - 
+
+String Formats - 
+
+%d - 
+%i - 
+%o - 
+%u - 
+%x - 
+%X - 
+%e - 
+%E - 
+%f - 
+%F - 
+%g - 
+%G - 
+%c - 
+%r - 
+%s - 
+%% - 
+
+Operators 
+
++ - 
+- - 
+* - 
+** - 
+/ - 
+// - 
+% - 
+< - 
+> - 
+<= - 
+>= - 
+== - 
+!= - 
+<> - 
+( ) - 
+[ ] - 
+{} - 
+@ - 
+, - 
+: - 
+. - 
+= - 
+; - 
++= - 
+-= - 
+*= -
+/= - 
+//= -
+%= - 
+**= - 
+
+
+
+
+
+
