@@ -8,15 +8,15 @@ elif - else if , if the if statement is not true this is used as a combination o
 global - this is a global varible accessible across entire script 
 or - this is a comparison operator used that be used to allow either variables to be true or false to pass
 with - 
-assert -
-else - 
-if - 
-pass - 
-yield - 
-break - 
-excerpt - 
-import - 
-print - 
+assert - used to test a condition 
+else - fall back to the if conditions , if the "if" condition is false then else is executed
+if - This the opening for a condition statement , if the variable is met then block of code is executed
+pass - It is used when a statement is required syntactically but you do not want any command or code to execute.
+yield - Yield is a keyword that is used like return,except the function will return a generator
+break - It terminates the current loop and resumes execution at the next statement. break is when some external condition is triggered requiring a hasty exit from a loop.
+excerpt - Return some descriptive information extracted from the content found at the given URL
+import - pull functions or features for another file or system
+print - print the value or variabl specified on to the console 
 class - 
 exec - 
 in - 
