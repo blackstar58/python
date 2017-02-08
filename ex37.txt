@@ -17,25 +17,25 @@ break - It terminates the current loop and resumes execution at the next stateme
 excerpt - Return some descriptive information extracted from the content found at the given URL
 import - pull functions or features for another file or system
 print - print the value or variabl specified on to the console 
-class - 
-exec - 
-in - 
-raise - 
-continue - 
-finally - 
-is - 
-return - 
-def - 
-for - 
+class - A class is a way to take a grouping of functions and data and place them inside a container so you can access them with the . (dot) operator
+exec -  is used for executing a dynamically created statement or program
+in - This narrow variables to search into a set function of data. 
+raise - without any arguments is a special use of python syntax. It means get the exception and re-raise
+continue - It returns the control to the beginning of the while loop.. The continue statement rejects all the remaining statements in the current iteration of the loop and moves the control back to the top of the loop
+finally - The finally block is a place to put any code that must execute, whether the try-block raised an exception or not.
+is - 'is' is used for object identity, it checks if objects refer to the same instance (same address in memory)
+return - This function returns a value from a function. This is different from print since it is not pushed to the console
+def - this is used to define a user specified function 
+for - this is a comparision function , once it is fullfilled the function ends 
 lambda - 
-try - 
+try - Try is used to test a statement , if no issues are found the function end , if an issue is found and expection is thrown
 
 Data Type:
 
-True - 
-False - 
-None - 
-strings - 
+True - The comparison is accurate.
+False - The comparison or formula is inaccurate 
+None - The Python None object, denoting lack of value. This object has no methods. It needs to be treated just like any other object with respect to reference counts.
+strings - This is classified as a non-numeric value , 
 numbers - 
 floats - 
 lists - 
