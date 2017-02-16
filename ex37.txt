@@ -7,7 +7,7 @@ as - function used to assign the value to variable
 elif - else if , if the if statement is not true this is used as a combination of else and if 
 global - this is a global varible accessible across entire script 
 or - this is a comparison operator used that be used to allow either variables to be true or false to pass
-with - 
+with - when you have two related operations which you’d like to execute as a pair, with a block of code in between
 assert - used to test a condition 
 else - fall back to the if conditions , if the "if" condition is false then else is executed
 if - This the opening for a condition statement , if the variable is met then block of code is executed
@@ -27,7 +27,7 @@ is - 'is' is used for object identity, it checks if objects refer to the same in
 return - This function returns a value from a function. This is different from print since it is not pushed to the console
 def - this is used to define a user specified function 
 for - this is a comparision function , once it is fullfilled the function ends 
-lambda - 
+lambda - creation of anonymous functions (i.e. functions that are not bound to a name) at runtime, using a construct called "lambda"
 try - Try is used to test a statement , if no issues are found the function end , if an issue is found and expection is thrown
 
 Data Type:
@@ -35,75 +35,75 @@ Data Type:
 True - The comparison is accurate.
 False - The comparison or formula is inaccurate 
 None - The Python None object, denoting lack of value. This object has no methods. It needs to be treated just like any other object with respect to reference counts.
-strings - This is classified as a non-numeric value , 
+strings - This is classified as a non-numeric value , it is treated as text message
 numbers - 
 floats - 
 lists - 
 
 String Escape Sequences - 
 
-\\ - 
-\' - 
-\" - 
-\a -
-\b - 
-\f - 
-\n - 
-\r - 
-\t - 
-\v - 
+\\ - backslash
+\' - single-quote
+\" - Double-quote
+\a - Bell
+\b - backspace
+\f - Formfeed
+\n - new line function
+\r - Return carriage
+\t - Tab
+\v - vertical tab
 
 String Formats - 
 
-%d - 
-%i - 
-%o - 
-%u - 
-%x - 
-%X - 
-%e - 
-%E - 
-%f - 
-%F - 
-%g - 
-%G - 
-%c - 
-%r - 
-%s - 
-%% - 
+%d - decimal integer
+%i - decimal integer same as %d
+%o - Octal number- This is a base 8 system 
+%u - Unsigned decimal.
+%x - Hexadecimal lowercase.
+%X - Hexadecimal uppercase
+%e - Exponential notation lower case 'e'
+%E - Exponential notation upper case 'e'
+%f - Floating point real number
+%F - same as %f
+%g - Either %f or %e, whichever is shorter.
+%G - Same as %g but uppercase.
+%c - Character format.
+%r - Repr format (debugging format).
+%s - string format
+%% - A percent sign.
 
 Operators 
 
-+ - 
-- - 
-* - 
-** - 
-/ - 
-// - 
-% - 
-< - 
-> - 
-<= - 
->= - 
-== - 
-!= - 
-<> - 
-( ) - 
-[ ] - 
-{} - 
-@ - 
-, - 
-: - 
-. - 
-= - 
-; - 
-+= - 
--= - 
-*= -
-/= - 
-//= -
-%= - 
-**= - 
++ - Addition
+- - Subtraction
+* - Multiplication
+** - power of
+/ - Division
+// - floor division
+% - modulus
+< - less than
+> - greater than
+<= - less than or equal
+>= - greater than or equal
+== - equal
+!= - not equal 
+<> - not equal
+( ) - parenthsis
+[ ] - list brackets
+{} - Dict curly braces
+@ - At
+, - Comma
+: - Colon
+. - Dot
+= - Assign equal
+; - semi-colon
++= - Add and assign
+-= - substract and assign
+*= - multiply and assign
+/= - Divide and assign
+//= -Floor divide and assign
+%= - modulus and assign
+**= - power assign
 
 
 
