@@ -1,3 +1,9 @@
+Classes - are like blueprints or definitions for creating new mini-modules
+Instantiation - is how you make on of these mini-modules and import it at the same time
+The resulting created min-module is called an object and you then assign it to a variable to work with it.
+
+
+
 and - logical operator which states that both values are true to get a pass
 del - delete operator 
 from - an operator that allows specific an array or segment 
